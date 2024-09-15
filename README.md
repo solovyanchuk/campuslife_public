@@ -1,4 +1,5 @@
 ------------------- Request to Delete Account and Data ------------------- 
+
 If you wish to delete your CampusLife account and all associated personal data, please follow the steps below:
 
 Steps to Request Account Deletion:
