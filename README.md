@@ -8,7 +8,6 @@ Steps to Request Account Deletion:
 - In the email, please include the email address you used to register with CampusLife.
 - We will process your deletion request within 30 days. You will receive a confirmation email once the deletion is complete.
 
-Data to be Deleted:
 Upon deletion, the following personal data will be removed:
 - First and last name
 - Email address
