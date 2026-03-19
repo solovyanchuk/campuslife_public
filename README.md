@@ -20,4 +20,4 @@ Certain data may be retained for legal or tax purposes for a limited period foll
 
 These data will be retained for up to [Retention Period] in accordance with legal requirements and will be fully deleted thereafter.
 
-If you have any further questions regarding the deletion of your account, please contact our support at campuslifeboxAgmail.com.
+If you have any further questions regarding the deletion of your account, please contact our support at campuslifebox@gmail.com.
